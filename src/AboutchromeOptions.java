@@ -48,7 +48,7 @@ public class AboutchromeOptions {
 
 		driver.get("https://expired.badssl.com/");
 
-		System.out.println(driver.getTitle());
+		System.out.println("driver.getTitle()");
 		
 		System.out.println("Test GIT");
 
